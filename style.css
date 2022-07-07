@@ -1,0 +1,21 @@
+
+
+
+.button {
+    background-color:#4C37EE ;
+    text-decoration: none;
+    color: white;
+    display: block;
+    width: 180px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+
+}
+.button:hover {
+    background-color:#F0F0F0 ;
+    color: black;
+}
